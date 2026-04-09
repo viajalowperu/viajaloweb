@@ -1,0 +1,118 @@
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VIAJALOW – Tours en Cusco</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f4f4f4;
+}
+
+header {
+    background: #0a6cff;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+}
+
+h2 {
+    color: #0a6cff;
+}
+
+.card {
+    background: white;
+    margin: 15px 0;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.price {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.whatsapp {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #25D366;
+    color: white;
+    padding: 15px;
+    border-radius: 50%;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background: #222;
+    color: white;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>✈️ VIAJALOW</h1>
+    <p>Tours en Cusco desde S/55 😱</p>
+</header>
+
+<section class="card">
+    <h2>💸 Precios Base</h2>
+    <p class="price">🏙️ City Tour: S/55 / $15</p>
+    <p class="price">🏔️ Laguna Humantay: S/79 / $21</p>
+    <p class="price">🌈 Montaña 7 colores: S/79 / $21</p>
+    <p class="price">🏞️ Valle Sagrado + Maras y Moray: S/79 / $21</p>
+    <p class="price">🌄 Valle Sagrado Tradicional: S/69 / $18</p>
+</section>
+
+<section class="card">
+    <h2>👥 2 Personas</h2>
+    <p>🏙️ City Tour: S/49 / $13</p>
+    <p>🏔️ Humantay: S/75 / $20</p>
+    <p>🌈 Montaña: S/75 / $20</p>
+    <p>🏞️ Valle (Maras/Moray): S/75 / $20</p>
+    <p>🌄 Valle Tradicional: S/65 / $17</p>
+</section>
+
+<section class="card">
+    <h2>👨‍👩‍👧 3+ Personas</h2>
+    <p>🏙️ City Tour: S/45 / $12</p>
+    <p>🏔️ Humantay: S/70 / $19</p>
+    <p>🌈 Montaña: S/70 / $19</p>
+    <p>🏞️ Valle (Maras/Moray): S/70 / $19</p>
+    <p>🌄 Valle Tradicional: S/60 / $16</p>
+</section>
+
+<section class="card">
+    <h2>🔥 Promoción</h2>
+    <p>💸 Mientras más personas viajan, menos pagan 😱</p>
+</section>
+
+<section class="card">
+    <h2>📩 Contáctanos</h2>
+    <p>✈️ Hola! 👋 Tenemos tours en Cusco desde S/55 😱</p>
+    <p>💸 Mientras más personas, menos pagan</p>
+    <p>¿Qué tour te interesa?</p>
+</section>
+
+<a class="whatsapp" href="https://wa.me/51943146028" target="_blank">💬</a>
+
+<footer>
+    <p>© 2026 VIAJALOW</p>
+</footer>
+
+</body>
+</html>
+```
